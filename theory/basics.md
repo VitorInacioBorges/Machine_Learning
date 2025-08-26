@@ -81,10 +81,10 @@ Collection of Data Sets and Bases:
 - FN (False Negative)
 
 
-## Acurácia, Precisão, Recall e F-Measure
+## Metrics
 
-## MCS ou SMC
-- MultiClassification System
+## MCS / SMC
+- Multi-Classification System
 	- Classification
 	- Selection
 	- Results Combination
